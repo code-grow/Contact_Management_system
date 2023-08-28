@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1693094369 source:i:\codeblocks\contact_management_system\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1693094369 source:i:\codeblocks\to post\contact_management_system\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
